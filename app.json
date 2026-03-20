@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Romulo FC",
+    "slug": "romulo-fc-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./icon-512.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#ffffff",
+      "resizeMode": "contain"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./icon-512.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.rosmellm.romulofcapp",
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.INTERNET"
+      ]
+    }
+  }
+}
