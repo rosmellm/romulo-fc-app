@@ -10,6 +10,11 @@
       "backgroundColor": "#ffffff",
       "resizeMode": "contain"
     },
+   "extra": {
+  "eas": {
+    "projectId": "50b16af0-1726-413a-b411-86a9762d5c63"
+  }
+},
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./icon-512.png",
