@@ -4,6 +4,7 @@
     "slug": "romulo-fc",
     "version": "1.0.0",
     "orientation": "portrait",
+    "icon": "./icon-180.png",
     "userInterfaceStyle": "automatic",
     "splash": {
       "backgroundColor": "#ffffff",
@@ -15,7 +16,12 @@
       }
     },
     "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./icon-180.png",
+        "backgroundColor": "#ffffff"
+      },
       "package": "com.rosmellm.romulofcapp",
+      "versionCode": 1,
       "permissions": [
         "android.permission.CAMERA",
         "android.permission.INTERNET"
