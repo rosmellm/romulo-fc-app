@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Romulo FC",
-    "slug": "romulo-fc-app",
+    "slug": "romulo-fc",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./icon-512.png",
